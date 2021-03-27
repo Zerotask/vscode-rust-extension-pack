@@ -1,0 +1,36 @@
+{
+    "name": "rust-extension-pack",
+    "displayName": "Rust Extension Pack",
+    "description": "Rust Extension Pack provides a covenient way of developing with the Rust programming language.",
+    "keywords": [
+        "rust",
+        "rustlang",
+        "rust-lang"
+    ],
+    "version": "1.0.0",
+    "publisher": "Zerotask",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "logo.png",
+    "homepage": "https://github.com/Zerotask/vscode-rust-pack",
+    "bugs": {
+        "url": "https://github.com/Zerotask/vscode-rust-pack/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zerotask/vscode-rust-pack"
+    },
+    "extensionPack": [
+        "matklad.rust-analyzer",
+        "serayuzgur.crates",
+        "tamasfe.even-better-toml",
+        "jscearcy.rust-doc-viewer",
+        "panicbit.cargo",
+        "swellaby.vscode-rust-test-adapter"
+    ]
+}
