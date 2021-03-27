@@ -16,14 +16,14 @@
         "Extension Packs"
     ],
     "icon": "logo.png",
-    "homepage": "https://github.com/Zerotask/vscode-rust-pack",
+    "homepage": "https://github.com/Zerotask/vscode-rust-extension-pack",
     "bugs": {
-        "url": "https://github.com/Zerotask/vscode-rust-pack/issues"
+        "url": "https://github.com/Zerotask/vscode-rust-extension-pack/issues"
     },
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Zerotask/vscode-rust-pack"
+        "url": "https://github.com/Zerotask/vscode-rust-extension-pack"
     },
     "extensionPack": [
         "matklad.rust-analyzer",

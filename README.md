@@ -23,4 +23,4 @@ By installing Rust Extension Pack, the following extensions are installed:
   * Checks your code using cargo check
   * Commands to add and remove dependencies
 * [Rust Test Explorer](https://github.com/swellaby/vscode-rust-test-adapter)
-  * View and run your Rust tests from teh VS Code sidebar
+  * View and run your Rust tests from the VS Code sidebar
