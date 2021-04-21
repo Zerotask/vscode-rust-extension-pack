@@ -35,7 +35,8 @@
         "tamasfe.even-better-toml",
         "jscearcy.rust-doc-viewer",
         "panicbit.cargo",
-        "swellaby.vscode-rust-test-adapter"
+        "swellaby.vscode-rust-test-adapter",
+        "vadimcn.vscode-lldb"
     ],
     "scripts": {
         "publish": "vsce package && vsce publish"
