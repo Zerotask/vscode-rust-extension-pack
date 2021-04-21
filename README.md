@@ -25,6 +25,8 @@ By installing Rust Extension Pack, the following extensions are installed:
   * Commands to add and remove dependencies
 * [📦 Rust Test Explorer](https://github.com/swellaby/vscode-rust-test-adapter)
   * View and run your Rust tests from the VS Code sidebar
+* [📦 CodeLLDB](https://github.com/vadimcn/vscode-lldb)
+  * LLDB based debugger.
 
 ## Contributing
 Do you have questions about this project, there is a great extension which should be part of this extension pack or
