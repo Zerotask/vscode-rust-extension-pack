@@ -1,7 +1,7 @@
 # Rust Extension Pack
 
-Rust Extension Pack is a collection of extensions that can help you write and
-test [Rust](https://www.rust-lang.org) applications in Visual Studio Code.
+Rust Extension Pack is a collection of extensions that can help write, test and debug
+ [Rust](https://www.rust-lang.org) applications in Visual Studio Code.
 
 ## Included extensions
 By installing Rust Extension Pack, the following extensions are installed:
