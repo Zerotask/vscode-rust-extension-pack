@@ -26,7 +26,9 @@ By installing Rust Extension Pack, the following extensions are installed:
 * [📦 Rust Test Explorer](https://github.com/swellaby/vscode-rust-test-adapter)
   * View and run your Rust tests from the VS Code sidebar
 * [📦 CodeLLDB](https://github.com/vadimcn/vscode-lldb)
-  * LLDB based debugger.
+  * LLDB based debugger for Linux (x86 or ARM), MacOS (x86 or ARM ) and Windows (x86 only)
+  * Conditional breakpoints, function breakpoints, data breakpoints, logpoints
+  * Rust language support with built-in visualizars for vectors, strings and other standard types
 
 ## Contributing
 Do you have questions about this project, there is a great extension which should be part of this extension pack or

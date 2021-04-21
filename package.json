@@ -1,7 +1,7 @@
 {
     "name": "rust-extension-pack",
     "displayName": "Rust Extension Pack",
-    "description": "Rust Extension Pack is a collection of extensions that can help write and test Rust applications in Visual Studio Code.",
+    "description": "Rust Extension Pack is a collection of extensions that can help write, test and debug Rust applications in Visual Studio Code.",
     "keywords": [
         "rust",
         "rustlang",
@@ -9,9 +9,10 @@
         "rustc",
         "cargo",
         "crate",
-        "toml"
+        "toml",
+        "debugger"
     ],
-    "version": "1.0.3",
+    "version": "1.1.0",
     "publisher": "Zerotaskx",
     "engines": {
         "vscode": "^1.50.0"
@@ -40,5 +41,8 @@
     ],
     "scripts": {
         "publish": "vsce package && vsce publish"
+    },
+    "devDependencies": {
+        "vsce": "^1.87.1"
     }
 }

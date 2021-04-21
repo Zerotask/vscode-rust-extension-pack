@@ -4,6 +4,9 @@ All notable changes to the "rust-extension-pack" extension pack will be document
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.0] 2021-04-21
+- Added CodeLLDB extension as debugger
+
 ## [1.0.3] 2021-03-28
 - Updated logo and README
 
