@@ -12,7 +12,7 @@
         "toml",
         "debugger"
     ],
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "Zerotaskx",
     "engines": {
         "vscode": "^1.50.0"
