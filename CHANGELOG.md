@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.2.0] - 2025-01-17
+
+### Changed
+
+- Replaced the deprecated crates extension with Dependi
+
 ## [1.1.1] - 2023-09-12
 
 ### Changed
