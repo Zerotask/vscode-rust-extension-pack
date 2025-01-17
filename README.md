@@ -12,9 +12,11 @@ By installing Rust Extension Pack, the following extensions are installed:
   - Code completion
   - Imports insertion
   - Semantic syntax highlighting
-- [📦 crates](https://github.com/serayuzgur/crates)
-  - Display the latest version of the crate next to it
-  - Show all versions (clickable) on the tooltip of the crate hovered.
+- [📦 Dependi](https://github.com/filllabs/dependi)
+  - Manage Versions: Dependi provides clear and concise views of all your project dependencies, making it easy to manage updates and versions.
+  - Related Links: For more insights and resources related to the languages and tools Dependi supports
+  - Vulnerabilities at a Glance: Quickly identify vulnerabilities in your project dependencies and take action to mitigate risks.
+  - Vulnerability Reports: Generate comprehensive reports detailing the vulnerabilities in your dependencies, helping you maintain secure codebases.
 - [📦 Even Better TOML](https://github.com/tamasfe/taplo)
   - TOML 1.0.0 support
   - Syntax highlighting
