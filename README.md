@@ -1,3 +1,5 @@
+
+
 # Rust Extension Pack
 
 Rust Extension Pack is a collection of extensions that can help write, test and debug
@@ -32,7 +34,7 @@ By installing Rust Extension Pack, the following extensions are installed:
 - [📦 CodeLLDB](https://github.com/vadimcn/vscode-lldb)
   - LLDB based debugger for Linux (x86 or ARM), MacOS (x86 or ARM ) and Windows (x86 only)
   - Conditional breakpoints, function breakpoints, data breakpoints, logpoints
-  - Rust language support with built-in visualizars for vectors, strings and other standard types
+  - Rust language support with built-in visualizers for vectors, strings and other standard types
 
 ## Contributing
 
